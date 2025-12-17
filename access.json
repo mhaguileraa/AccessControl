@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "message": "Acesso não autorizado, verifique com o desenvolvedor.",
   "minVersion": "1.0.1"
 }
